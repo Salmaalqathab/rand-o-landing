@@ -18,7 +18,10 @@ p {
   font-family: 'Montserrat', sans-serif;
   color: white;
 }
+input {
+        background-color: transparent;
 
+    }
 input[type=email] {
     width: 100px;
     transition: ease-in-out, width .35s ease-in-out;
