@@ -19,15 +19,16 @@ p {
   color: white;
 }
 input {
-        background-color: transparent;
 
     }
 input[type=email] {
     width: 100px;
     transition: ease-in-out, width .35s ease-in-out;
+    background-color: transparent;
 }
 input[type=email]:focus {
   width: 250px;
+  background-color: transparent;
 }
 
 #cta {
