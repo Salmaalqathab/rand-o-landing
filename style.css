@@ -1,3 +1,44 @@
 body {
-  
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
+
+.container {
+  position: relative;
+}
+
+h1 {
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 5em;
+  color: white;
+}
+
+p {
+  font-family: 'Fredericka the Great', cursive;
+  color: white;
+}
+
+input[type=email] {
+    width: 100px;
+    transition: ease-in-out, width .35s ease-in-out;
+}
+input[type=email]:focus {
+  width: 250px;
+}
+
+textarea[type=text] {
+    width: 100px;
+    transition: ease-in-out, width .35s ease-in-out;
+}
+textarea[type=text]:focus {
+  width: 250px;
+  height: 100px;
+}
+
+#cta {
+  margin-top: 75%;
+}
+font-family: 'Montserrat', sans-serif;
+font-family: 'Rubik Mono One', sans-serif;
+font-family: 'Amatic SC', cursive;
