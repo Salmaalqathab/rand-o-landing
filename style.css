@@ -27,11 +27,9 @@ input {
 input[type=email] {
     width: 100px;
     transition: ease-in-out, width .35s ease-in-out;
-    /* background-color: transparent; */
 }
 input[type=email]:focus {
-  width: 250px;
-  /* background-color: transparent; */
+  width: 200px;
 }
 
 #cta {
@@ -41,10 +39,6 @@ input[type=email]:focus {
 #mc_embed_signup {
   font-family: 'Montserrat', sans-serif;
   color: white;
-  padding-left: 0;
-}
-
-#mc_embed_signup form {
   padding-left: 0;
 }
 
