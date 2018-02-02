@@ -41,9 +41,13 @@ input[type=email]:focus {
 #mc_embed_signup {
   font-family: 'Montserrat', sans-serif;
   color: white;
-  padding: 0;
+  padding-left: 0;
 }
 
 #mc_embed_signup form {
-  padding: 0;
+  padding-left: 0;
+}
+
+#mc_embedded_subscribe {
+  padding-left: 0;
 }
