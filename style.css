@@ -45,3 +45,10 @@ input[type=email]:focus {
 #mc_embedded_subscribe {
   padding-left: 0;
 }
+
+#mc_embed_signup .mc-field-group input {
+    display: block;
+    /* width: 100%; */
+    padding: 8px 0;
+    text-indent: 2%;
+}
