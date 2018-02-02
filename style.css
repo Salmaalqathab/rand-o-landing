@@ -44,6 +44,7 @@ input[type=email]:focus {
 
 #mc_embedded_signup form {
   padding-left: 0;
+  padding: 0;
 }
 #mc_embedded_subscribe-form {
   padding-left: 0;
