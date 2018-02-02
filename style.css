@@ -44,4 +44,5 @@ input[type=email]:focus {
 
 #mc_embedded_subscribe {
   padding-left: 0;
+  width: 100;
 }
